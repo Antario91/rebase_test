@@ -3,3 +3,7 @@ New commit in master
 one more commit in master
 
 +1 commit in master
+
+commit in newb2
+
+brand new commit to newb2
